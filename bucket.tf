@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "Stadtteile" {
-bucket = "stadtteile-test-terraform"
+  bucket = "stadtteile-test-terraform"
 }
